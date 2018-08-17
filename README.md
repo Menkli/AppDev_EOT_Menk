@@ -10,7 +10,7 @@ I would kindly request you to download the file from the above standing link - t
 Objective of this project was to build a complete map making use of Python/arcpy.  
 
 **INSTRUCTIONS**
-1. Please open the file "config.conf" in any texteditor and exchange the path to the project under [PATHS]: Project, in order to reference the location on your computer. --> Save the changes.  
+1. Please open the file "config.conf" in any texteditor and exchange the path to the project ([PATHS] Project) with the respective path on your computer. --> Save the changes.  
 2. Open your Command Prompt and navigate to the folder in which the project is saved on your computer.  
 3. At first type in the name of the Python script and then the name of the configuration file like:  
   *Mapbuilder.py config.conf*
