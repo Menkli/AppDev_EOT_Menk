@@ -5,7 +5,7 @@
 Objective of this project was to build a complete map, making use of Python/arcpy. 
 Much of my former (and future) project work consists of updating text elements in numerous maps in ArcMap.  
 Opening, checking and updating each and every map is tedious and time-consuming.  
-Therefore it was my objective to explore and utilize the arcpy mapping module by creating a complete map from scratch.  
+Therefore, it was my objective to explore and utilize the arcpy mapping module by creating a complete map from scratch.  
 In addition to it's possibilities, I also encountered it's limitations compared to working within ArcMap directly - which was also part of the learning process.  
 However, for updating text elements without having to open the script, I made use of the ConfigParser class, which will read text passages from a text file and updates the map accordingly. This can be of great use for future project work.  
 
