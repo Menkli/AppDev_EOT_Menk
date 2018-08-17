@@ -13,5 +13,9 @@ However, for updating text elements without having to open the script, I made us
 1. Please open the file "config.conf" in any texteditor and exchange the path to the project ([PATHS] Project) with the respective path on your computer. --> Save the changes.  
 2. To run the script, open your Command Prompt and navigate to the folder in which the project is stored on your computer.  
 Type the name of the Python script and on second position the name of the configuration file like:  
-  *Mapbuilder.py config.conf*
-After the script was successfully executed, there will be a new mxd "ProjectCopy.mxd" and a PDF "FinalMap.PDF" in your project folder.  
+  *Mapbuilder.py config.conf*  
+  
+After the script was successfully executed, there will be a new mxd "ProjectCopy.mxd" and a PDF "FinalMap.PDF" in your project folder. 
+
+If you have any troubles executing the script, please contact me under:  
+**Linda.Menk@stud.sbg.ac.at**
