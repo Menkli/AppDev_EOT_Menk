@@ -2,7 +2,7 @@
 ## Linda Menk / Application Development    
   
 **OBJECTIVE**  
-Objective of this project was to build a complete map making use of Python/arcpy. 
+Objective of this project was to build a complete map, making use of Python/arcpy. 
 Much of my former (and future) project work consistes of updating text elements in many numerous maps in ArcMap.  
 Opening, checking and updating each and every map is tedious and time-consuming.  
 Therefore it was my objective to explore and utilize the arcpy mapping module by creating a complete map from scratch.  
