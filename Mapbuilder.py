@@ -215,12 +215,12 @@ for pic in picElements:
         pic.elementPositionY=15.61
         pic.elementHeight=headerHeight
         pic.elementWidth=2.2
-        pic.sourceImage= r"C:\Users\Linda\Desktop\Geoinformatik\Python\EOT\LogoSOS.JPG"
+        pic.sourceImage=conf_projectpath+"LogoSOS.JPG"
 
 #_________________ADDING LAYERS_____________________________________________________
 
 # Making a layer from a raster file.
-popRaster = arcpy.MakeRasterLayer_management(conf_projectpath+"Data\\Worldpop_Uganda100mPopulation\\UGA_ppp_v2b_2015.tif")
+popRaster = arcpy.MakeRasterLayer_management(conf_projectpath+"Data\\UGA_ppp_v2b_2015.tif")
 popUganda = popRaster.getOutput(0)
 arcpy.mapping.AddLayer(df, popUganda, "AUTO_ARRANGE")
 
