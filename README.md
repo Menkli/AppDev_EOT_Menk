@@ -15,7 +15,7 @@ However, for updating text elements without having to open the mxd or the script
 Type the name of the Python script and on second position the name of the configuration file like:  
   *Mapbuilder.py config.conf*  
   
-After the script was successfully executed, there will be a new mxd "ProjectCopy.mxd" and a PDF "FinalMap.PDF" in your project folder. 
+  After the script was successfully executed, there will be a new mxd "ProjectCopy.mxd" and a PDF "FinalMap.PDF" in your project folder. 
 
 • The script was successfully tested using ArcMap 10.6 with Python 2.7 running on Windows 8.1.
 
